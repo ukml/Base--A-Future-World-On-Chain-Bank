@@ -1,3 +1,12 @@
+# Base — A Future World On-Chain Bank
+
+Beginner project (Dec 2025) – learning in public on Base L2  
+Live testnet-ready Solidity vault included: `/contracts/BankVault.sol`  
+Feedback & collabs very welcome!
+
+## Disclaimer
+This is a learning/conceptual project by a total beginner.  
+All code is unaudited — test on Base Sepolia first. DYOR.
 # 🚀 Base: The International On-Chain Bank Revolution – Exploring the Chain, TGE Hype, Airdrops & Why Hold Like Binance
 
 ![Base On-Chain Bank Vision](https://via.placeholder.com/800x400?text=Base+as+Global+On-Chain+Bank+–+JPMorgan%2C+INR%2C+TGE%2C+Airdrops+%26+Hold+Strategy) <!-- Swap with a custom image: e.g., globe with Base logo linking chains to banks and tokens -->
